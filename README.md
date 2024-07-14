@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
-- 🔭 I’m currently working on ShifTrack
 
 - 📫 How to reach me **eorhan.0216@gmail.com**
 
